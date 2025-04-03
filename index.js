@@ -5,3 +5,9 @@ let sub=document.getElementById("sub");
 let into=document.getElementById("into");
 let div=document.getElementById("div");
 let ans=document.getElementById("ans");
+
+function fun_add() {
+    let result= (num1.value) + (num2.value)
+
+    
+}
